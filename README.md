@@ -2,7 +2,7 @@
 
 This is a project using spark and python, to count top 24 words used in shakespheare writings.
 Cleansed file with headers and unrelavant datas inbetween using python.
-Spark counts top 24 words , omits whitespaces & ''.
+Spark counts top 24 words , omits whitespaces & ' '.
 
 **Question 1.**
 *Result (Top 24 words)*
