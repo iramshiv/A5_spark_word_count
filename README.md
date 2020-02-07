@@ -8,5 +8,5 @@ Spark counts top 24 words , omits whitespaces & ''.
 
 Vagrant Box - <https://app.vagrantup.com/fscm/boxes/spark-jupyter>  , which has Python3, Spark(pyspark), jupyter-notebook already installed.
 
-*Result (Top 24 words)
+*Result (Top 24 words)*
 ![result](https://github.com/iramshiv/A5_spark_word_count/blob/master/result.PNG)
